@@ -1,0 +1,8 @@
+#GameScreen {
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 100px calc(50% - 400px);
+    background-color: red;
+}
